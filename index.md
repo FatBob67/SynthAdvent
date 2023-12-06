@@ -1,6 +1,3 @@
----
-layout: default
----
 # Synth Advent Calendar
 
 <ul>
