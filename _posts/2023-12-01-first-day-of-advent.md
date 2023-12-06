@@ -1,6 +1,8 @@
 ---
 layout: post
 title:  "First Day of Advent!"
+date: '2023-12-01 13:25:00 -0400'
+categories: Advent
 ---
 
 # Welcome to the first day of Advent!
