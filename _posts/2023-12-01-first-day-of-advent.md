@@ -1,9 +1,8 @@
 ---
 layout: post
 title:  "First Day of Advent!"
-date: '2023-12-01 13:25:00 -0400'
+date: '2023-12-01 13:25:00 +0100'
 categories: Advent
-gh-repo: https://github.com/FatBob67/SynthAdvent
 ---
 
 # Welcome to the first day of Advent!
