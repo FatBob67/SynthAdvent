@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Synth Advent Calendar
 
 Hello and Welcome to this blog which will track my trials and tribulations when building a synthesizer using the Electronic sound Advent Calendar.
