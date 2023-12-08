@@ -2,7 +2,7 @@
 
 Hello and Welcome to this blog which will track my trials and tribulations when building a synthesizer using the Electronic sound Advent Calendar.
 
-![image](_assets/2023-11-30/Elec_Snd_Advent_Calendar.png)
+![Electronic Sound Advent Calendar Box](./_assets/2023-11-30/Elec_Snd_Advent_Calendar.png)
 
 ## Blog Posts
 
