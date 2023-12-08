@@ -8,6 +8,6 @@ Hello and Welcome to this blog which will track my trials and tribulations when 
 
 <ul>
   {% for post in site.posts %}
-  <li><a href="{{ post.url }}" class="post-preview">{{ post.title }}</a></li>
+  <li><a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
   {% endfor %}
 </ul>
