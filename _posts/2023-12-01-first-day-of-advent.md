@@ -8,4 +8,4 @@ categories: Advent
 # Welcome to the first day of Advent!
 This adevnt blog will follow my trials and tribulations when creating a synthesizer using components from the Electronic Sound Advent Calendar.
 
-Return to [index](/index.html "Home")
+Return to [index](https://fatbob67.github.io/SynthAdvent/index.html "Home")
